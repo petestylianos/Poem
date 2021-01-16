@@ -15,3 +15,5 @@ OMG
 This poem can also be completed from my local repo on my laptop.
 One more line while I am having me tea
 
+Let's see how stash works now ( I add this line and I will stash the file)
+
